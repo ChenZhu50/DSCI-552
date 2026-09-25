@@ -1,0 +1,11 @@
+# Jupyter / Python caches
+.ipynb_checkpoints/
+__pycache__/
+
+# Assignment handout (not part of the submission)
+Homework2.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

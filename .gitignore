@@ -1,0 +1,24 @@
+# Only the homework folders listed below are tracked.
+# Everything else in this folder (e.g. HW1, which was submitted on Gradescope) stays local.
+/*
+!/.gitignore
+!/README.md
+!/HW2/
+!/HW3/
+!/HW4/
+!/HW5/
+!/HW6/
+!/HW7/
+!/HW8/
+
+# Jupyter / Python caches
+.ipynb_checkpoints/
+__pycache__/
+
+# Assignment handouts (not part of the submission)
+Homework*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
