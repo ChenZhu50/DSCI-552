@@ -5,6 +5,7 @@
 | Homework | Notebook                                                           |
 | -------- | ------------------------------------------------------------------ |
 | HW2      | [HW2/notebook/Zhu_Chen_HW2.ipynb](HW2/notebook/Zhu_Chen_HW2.ipynb) |
+| HW3      | [HW3/notebook/Zhu_Chen_HW3.ipynb](HW3/notebook/Zhu_Chen_HW3.ipynb) |
 
 ```
 HWi/

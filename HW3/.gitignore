@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+REQUIREMENTS_REVIEW.md
+TEST_REPORT.md
+verify_hw3.py
+Zhu_Chen_HW3.html
+results/verification.json
+results/execution_report.json
+notebook/*.backup.ipynb
+notebook/*_backup.ipynb
+results/
+data/SHA256.json
