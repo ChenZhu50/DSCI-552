@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+reference/
+Homework*.pdf
+results/
+Zhu_Chen_HW4_reference.html
