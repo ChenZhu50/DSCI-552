@@ -11,6 +11,9 @@
 !/HW7/
 !/HW8/
 
+# Exams stay local.
+/midterm/
+
 # Jupyter / Python caches
 .ipynb_checkpoints/
 __pycache__/
