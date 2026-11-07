@@ -8,8 +8,11 @@
 | HW3      | [HW3/notebook/Zhu_Chen_HW3.ipynb](HW3/notebook/Zhu_Chen_HW3.ipynb) |
 | HW4      | [HW4/notebook/Zhu_Chen_HW4.ipynb](HW4/notebook/Zhu_Chen_HW4.ipynb) |
 | HW5      | [HW5/notebook/Zhu_Chen_HW5.ipynb](HW5/notebook/Zhu_Chen_HW5.ipynb) |
+| HW6      | [HW6/notebook/Zhu_Chen_HW6.ipynb](HW6/notebook/Zhu_Chen_HW6.ipynb) |
 
 For HW5, install [the dependencies](HW5/requirements.txt) with Python 3.11 and open the notebook from `HW5/notebook/`.
+
+For HW6, install [the dependencies](HW6/requirements.txt) with Python 3.11 and open the notebook from `HW6/notebook/`.
 
 ```
 HWi/
